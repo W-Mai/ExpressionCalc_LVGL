@@ -1,4 +1,4 @@
-﻿﻿## LVGL Expression Calculator
+## LVGL Expression Calculator
 
 基于LVGL的表达式计算器
 
